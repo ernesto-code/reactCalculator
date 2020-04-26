@@ -4,8 +4,6 @@ import "./App.css";
 import Display from "./components/display";
 import Keyboard from "./components/keyboard";
 
-//import { render } from "react-dom";
-
 class App extends Component {
   state = {
     output: 0,
